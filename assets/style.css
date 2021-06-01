@@ -118,15 +118,15 @@ body {
 
 
 #name_header {
-	margin: auto;
-	width: 31%;
+	/*margin: auto;
+	width: 31%;*/
 	padding-top: 30px;
 }
 
 #name_header h1 {
 	font-size: 33px;
 	color: white;
-	text-align: center;
+	/*text-align: center;*/
 	margin: 0;
 	padding-top: 5px;
 	padding-bottom: 5px
@@ -136,7 +136,7 @@ body {
 	padding-left: 6px;
 	padding-top: 5px;
 	color: #C3B1E1;
-	text-align: left;
+	/*text-align: left;*/
 	margin: 0;
 }
 
