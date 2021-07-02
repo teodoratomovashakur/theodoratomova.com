@@ -123,6 +123,7 @@ body {
 	padding-top: 30px;
 }
 
+
 #name_header h1 {
 	font-size: 33px;
 	color: white;
@@ -156,6 +157,18 @@ body {
 #resume_container {
 	text-align: center;
 	margin-top: 30px;
+}
+
+#download_link {
+	text-align: center;
+}
+
+#download_link a {
+	color: #C3B1E1;
+}
+
+#download_link a:hover {
+	color: white;
 }
 
 /**/
