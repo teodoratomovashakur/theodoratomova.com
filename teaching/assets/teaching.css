@@ -125,7 +125,7 @@ body {
 
 #name_header h1 {
 	font-size: 33px;
-	color: white;
+	color: #C3B1E1;
 	text-align: center;
 	margin: 0;
 	padding-top: 5px;
@@ -178,6 +178,10 @@ body {
 	color: white;
 }
 
+.purple-text {
+	color: #C3B1E1;
+}
+
 #text_div {
 	margin: 0;
 	padding: 20px;
@@ -195,35 +199,3 @@ body {
 	color: white;
 }
 /**/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
